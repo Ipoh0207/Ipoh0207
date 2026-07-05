@@ -1,0 +1,6 @@
+{
+  "name": "Adindo HR",
+  "description": "PT Adindo Hutani Lestari HR Operations application supporting Housing, Guest House Booking, Asset Management, Asset Transfer and Vehicle Request tracking with offline storage and export options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
